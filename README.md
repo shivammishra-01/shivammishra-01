@@ -1,16 +1,25 @@
-## Hi there 👋
+👋 Hello, I’m Shivam Kumar Mishra!
 
-<!--
-**shivammishra-01/shivammishra-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Developer | MERN Stack Enthusiast
+🎓 Final-year Computer Science student at Centurion University, Odisha.
+💻 Passionate about building responsive web applications and exploring new technologies.
 
-Here are some ideas to get you started:
+💡 Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: HTML5, CSS3, JavaScript, React
+Backend: Node.js, Express.js
+Database: MongoDB
+Tools & Frameworks: Bootstrap, Material Design, Git, GitHub
+🌱 Currently Learning:
+
+Enhancing my skills in Next.js and cloud deployment with AWS.
+✨ What I’m Working On:
+
+Developing a project management tool using React and Node.js.
+Contributing to open-source projects with @freeCodeCamp and @openai.
+📫 Let’s Connect!
+
+LinkedIn
+Twitter
+🌐 "Code is not just a profession, it's my passion."
+
