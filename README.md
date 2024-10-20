@@ -5,7 +5,7 @@
 💻 Passionate about building responsive web applications and exploring new technologies.
 
 **💡 Skills:**  
-- **Frontend:** HTML5, CSS3, JavaScript, React  
+- **Frontend:** HTML5, CSS3, JavaScript, React, React native
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
 - **Tools & Frameworks:** Bootstrap, Material Design, Git, GitHub
