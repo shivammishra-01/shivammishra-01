@@ -1,17 +1,21 @@
-# 👋 Hello, I’m Shivam Kumar Mishra!
+👋 Hello, I’m Shivam Kumar Mishra!
+🚀 Frontend & Backend .NET Developer | 1 Year Experience
+🎓 Computer Science & Engineering Graduate, Centurion University, Odisha
+💻 Passionate about building secure, scalable, and responsive web applications using Microsoft technologies.
 
-🚀 Aspiring Full-Stack Developer | MERN Stack Enthusiast  
-🎓 Final-year Computer Science student at Centurion University, Odisha.  
-💻 Passionate about building responsive web applications and exploring new technologies.
+💡 Skills
+🖥 Frontend: HTML5, CSS3, JavaScript, React, Bootstrap
+⚙️ Backend: ASP.NET Core, ASP.NET Core MVC, Web API
+🗄 Database: SQL Server
+🛠 Tools & Frameworks: ADO.NET, Dapper, Git, GitHub, Postman, Visual Studio
 
-**💡 Skills:**  
-- **Frontend:** HTML5, CSS3, JavaScript, React, React native
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools & Frameworks:** Bootstrap, Material Design, Git, GitHub
+🌱 Currently Learning: Advanced ASP.NET Core, Authentication & Authorization
+✨ What I’m Working On: Enterprise-level web applications using React and ASP.NET Core
 
-🌱 **Currently Learning:** Next.js, AWS  
-✨ **What I’m Working On:** Project management tool using React and Node.js  
-📫 **Let’s Connect!** [LinkedIn](https://www.linkedin.com/in/shivam-kumar-615109262/) | [Twitter](https://twitter.com/shivamkumarmishra)
+📫 Let’s Connect
+🔗 LinkedIn: https://www.linkedin.com/in/skmishraaa/
+🐦 Twitter (X): https://twitter.com/shivamkumarmishra
+📸 Instagram: https://www.instagram.com/skmishra.09
+💻 GitHub: https://github.com/
 
-🌐 **"Code is not just a profession, it's my passion."**
+🌐 “Clean code, scalable solutions, and continuous learning.”
